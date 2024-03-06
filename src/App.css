@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+
+}
+body{
+  background-color: cyan;
+}
+
+#Plane{
+  display: flex;
+  flex-direction: row;
+  float: left;
+  margin-top: 15rem;
+  margin-left: 20%;
+
+}
+button{
+  background-color: rgb(39, 97, 223);
+  width: 6rem;
+  height: 4rem;
+  padding: 1rem;
+  margin: 2rem;
+  border-radius: 1rem;
+  text-align: center;
+  font-size: 16px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-weight: bold;
+  cursor: pointer;
+}
